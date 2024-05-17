@@ -1,0 +1,17 @@
+C:\Users\stepi\Documents\riothook\riothook\riothook\bin\Debug\net6.0\riothook.exe
+C:\Users\stepi\Documents\riothook\riothook\riothook\bin\Debug\net6.0\riothook.deps.json
+C:\Users\stepi\Documents\riothook\riothook\riothook\bin\Debug\net6.0\riothook.runtimeconfig.json
+C:\Users\stepi\Documents\riothook\riothook\riothook\bin\Debug\net6.0\riothook.dll
+C:\Users\stepi\Documents\riothook\riothook\riothook\bin\Debug\net6.0\riothook.pdb
+C:\Users\stepi\Documents\riothook\riothook\riothook\bin\Debug\net6.0\swed32.dll
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\riothook.csproj.AssemblyReference.cache
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\riothook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\riothook.AssemblyInfoInputs.cache
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\riothook.AssemblyInfo.cs
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\riothook.csproj.CoreCompileInputs.cache
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\riothook.csproj.CopyComplete
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\riothook.dll
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\refint\riothook.dll
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\riothook.pdb
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\riothook.genruntimeconfig.cache
+C:\Users\stepi\Documents\riothook\riothook\riothook\obj\Debug\net6.0\ref\riothook.dll
