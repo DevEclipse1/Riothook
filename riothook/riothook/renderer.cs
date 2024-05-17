@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -30,7 +30,6 @@ namespace riothook.renderer
 
         protected override Task PostInitialized()
         {
-            AddOrGetImagePointer("C:\\Riothook\\Assets\\Background.png", false, out bg, out bgW, out bgH);
             ReplaceFont("C:\\Windows\\Fonts\\Arial.ttf", 14, FontGlyphRangeType.English);
             return base.PostInitialized();
         }
